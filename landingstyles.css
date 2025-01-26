@@ -1,0 +1,76 @@
+body{
+    background-color: #171717;
+    font-family: 'Inter';
+}
+.text{
+    font-size: 60px;
+    /* margin-bottom: 10px; */
+}
+.para{
+    color: #FFFFFF;
+    font-size: larger;
+    margin: 0%;
+    
+}
+.navbuttons{
+cursor: pointer;
+}
+.button2{
+    
+    border-radius: 70px;
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #EAB308;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.belowbutton{
+color: #EAB308;
+font-size: xx-large;
+font-weight: bold;
+}
+.textbelowbutton{
+color: #FFFFFF;
+font-size: larger;
+font-weight: 700;
+}
+.belowbelowtext{
+    font-size: xx-large;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.arpitbutton{
+    border-radius: 70px;
+    margin: 10px;
+    padding: 10px 10px;
+    font-size: 17px;
+    background-color: #EAB308;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: -10px;
+}
+.textarpit{
+    font-size: medium;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+/* 
+<div>
+<div>Rishu</div>
+<div>Wood Carving Artist</div>
+<div>India</div>
+</div>
+<div>
+<div>Saiman</div>
+<div>Textile Artist</div>
+<div>Morocco</div>
+</div> */
